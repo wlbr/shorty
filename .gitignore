@@ -10,3 +10,14 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+vscode/
+db/
+dbsstartcripttemp.scpt
+main
+shorty.ini
+shortysrv
+shortycmd
+shorty
+fcgi
+

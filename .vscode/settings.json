@@ -1,0 +1,3 @@
+{
+    "code-runner.customCommand": "go run $workspaceRoot/cmd/shortysrv/main.go"
+}
